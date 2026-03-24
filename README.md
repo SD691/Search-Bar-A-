@@ -83,7 +83,7 @@ ng serve
 
 Open your browser and navigate to:
 
-[https://searchbara.netlify.app/](Live Link)
+Live Link - [https://searchbara.netlify.app/]
 
 ---
 
