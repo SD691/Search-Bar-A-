@@ -83,7 +83,7 @@ ng serve
 
 Open your browser and navigate to:
 
-[http://localhost:4200](http://localhost:4200)
+[https://searchbara.netlify.app/](Live Link)
 
 ---
 
